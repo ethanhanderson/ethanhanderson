@@ -21,7 +21,9 @@
 
 ### About
 
-I'm a junior web developer in Phoenix, AZ, finishing a BS in Web Development at Arizona State University (expected December 2026). I build and ship scoped web features, use AI tooling to move faster, and then review, test, and correct what it produces before it leaves my desk.
+I practice AI-assisted web development for collaborative teams. My work is precise and direct, and teammates can feel assured because the impact is reliable. What sets it apart is that it's verifiable: I ship with AI speed, then review, test, and correct before anything leaves my desk.
+
+Right now I'm building with **TypeScript, React, and Next.js** on **Supabase and PostgreSQL**, plus **Swift and SwiftUI** for native apps. I'm based in Phoenix, AZ, and finishing a BS in Web Development at ASU (expected December 2026).
 
 ### Languages and tools
 
